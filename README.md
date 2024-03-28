@@ -3,11 +3,20 @@
 💻 Welcome to the "Efficiently Serving Large Language Models" course! Instructed by Travis Addair, Co-Founder and CTO at Predibase, this course will deepen your understanding of serving LLM applications efficiently.
 
 **Course Website**: 📚[deeplearning.ai](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/)
+<p align="center">
+<img src="images/1_1.png" height="350"> 
+</p>
 
 ## Course Summary
 In this course, you'll delve into the optimization techniques necessary to efficiently serve Large Language Models (LLMs) to a large number of users. Here's what you can expect to learn and experience:
 
 1. 🤖 **Auto-Regressive Models**: Understand how auto-regressive large language models generate text token by token.
+<p align="center">
+<img src="images/1_2.png" height="350"> 
+<img src="images/1_3.png" height="350"> 
+<img src="images/1_4.png" height="350"> 
+</p>
+
 2. 💻 **LLM Inference Stack**: Implement foundational elements of a modern LLM inference stack, including KV caching, continuous batching, and model quantization.
 3. 🛠️ **LoRA Adapters**: Explore the details of how Low Rank Adapters (LoRA) work and how batching techniques allow different LoRA adapters to be served to multiple customers simultaneously.
 4. 🚀 **Hands-On Experience**: Get hands-on with Predibase’s LoRAX framework inference server to see optimization techniques in action.
