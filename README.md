@@ -2,7 +2,6 @@
 
 💻 Welcome to the "Efficiently Serving Large Language Models" course! Instructed by Travis Addair, Co-Founder and CTO at Predibase, this course will deepen your understanding of serving LLM applications efficiently.
 
-**Course Website**: 📚[deeplearning.ai](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/)
 <p align="center">
 <img src="images/1_1.png" height="350"> 
 </p>
