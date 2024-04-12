@@ -18,8 +18,9 @@ In this course, you'll delve into the optimization techniques necessary to effic
 
 2. 💻 **LLM Inference Stack**: Implement foundational elements of a modern LLM inference stack, including KV caching, continuous batching, and model quantization.
 <p align="center">
-<img src="images/2_1.png" height="350"> 
-<img src="images/2_2.png" height="350"> 
+<img src="images/2_1.png" height="300"> 
+<img src="images/2_2.png" height="300"> 
+<img src="images/3_3.png" height="300"> 
 </p>
 
 3. 🛠️ **LoRA Adapters**: Explore the details of how Low Rank Adapters (LoRA) work and how batching techniques allow different LoRA adapters to be served to multiple customers simultaneously.
